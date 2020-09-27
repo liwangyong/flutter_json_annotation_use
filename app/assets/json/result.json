@@ -1,0 +1,94 @@
+{
+  "code": 200,
+  "data": {
+    "current": "1",
+    "hitCount": false,
+    "orders": [],
+    "pages": "1",
+    "records": [
+      {
+        "applyRemark": "",
+        "applyStatus": 0,
+        "applyType": 1,
+        "billNo": "TEST233",
+        "carrierCode": "TCCMP1267343514898747392",
+        "carrierName": "苏州宇圣达供应链物流有限公司",
+        "cntrUserCode": "fleet1",
+        "cntrUserName": "车队1",
+        "cntrUserType": "",
+        "cooperationFleetCode": "chedui2",
+        "cooperationFleetName": "车队2",
+        "createTime": "2020-09-23 14:43:16",
+        "eirApplyCntrFleetResponses": [
+          {
+            "applyId": "1308658171655962625",
+            "applyStatus": 0,
+            "approvalRemark": "",
+            "approvalTime": null,
+            "billNo": "TEST233",
+            "businessType": "I",
+            "cntrNo": "TEST1234",
+            "cntrSize": "45",
+            "cntrType": "GP",
+            "eirNo": "",
+            "eirType": 14,
+            "matchStatus": false,
+            "remark": "",
+            "withPapers": 0
+          }
+        ],
+        "id": "1308658171655962625",
+        "matchStatus": 0,
+        "shipAgentCode": "shipAgentCompany2",
+        "shipAgentName": "船代2",
+        "vesselChName": "",
+        "voyageNo": ""
+      },
+      {
+        "applyRemark": "",
+        "applyStatus": 1,
+        "applyType": 1,
+        "billNo": "TEST1112",
+        "carrierCode": "",
+        "carrierName": "",
+        "cntrUserCode": "fleet1",
+        "cntrUserName": "车队1",
+        "cntrUserType": "",
+        "cooperationFleetCode": "chedui2",
+        "cooperationFleetName": "车队2",
+        "createTime": "2020-09-03 18:08:48",
+        "eirApplyCntrFleetResponses": [
+          {
+            "applyId": "1301462138090102786",
+            "applyStatus": 0,
+            "approvalRemark": "",
+            "approvalTime": null,
+            "billNo": "TEST1112",
+            "businessType": "I",
+            "cntrNo": "",
+            "cntrSize": "12",
+            "cntrType": "GP",
+            "eirNo": "",
+            "eirType": 1,
+            "matchStatus": false,
+            "remark": "",
+            "withPapers": 0
+          }
+        ],
+        "id": "1301462138090102786",
+        "matchStatus": 0,
+        "shipAgentCode": "shipAgentCompany2",
+        "shipAgentName": "船代2",
+        "vesselChName": "",
+        "voyageNo": ""
+      }
+    ],
+    "searchCount": true,
+    "size": "10",
+    "total": "2"
+  },
+  "errors": [],
+  "message": "OK",
+  "success": true,
+  "time": "2020-09-25 19:21:06"
+}
