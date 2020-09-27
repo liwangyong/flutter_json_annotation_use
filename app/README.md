@@ -6,9 +6,9 @@ A new Flutter project.
 - 编写创建对象代码
 - (https://caijinglong.github.io/json2dart/index.html)
 文件报错不用怕 part文件命令 自动生成导入
-`flutter run build_runner build lib`
-如果文件生成不了 看该issues
-https://github.com/google/json_serializable.dart/issues/719
+-`flutter run build_runner build lib`
+-如果文件生成不了 看该issues
+-https://github.com/google/json_serializable.dart/issues/719
 ## Getting Started
 
 This project is a starting point for a Flutter application.
